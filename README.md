@@ -1,5 +1,5 @@
 # api-sync-tool
-API-Sync is a tool that synchronizes an API that's hosted in the [Anypoint Platform](http://anypoint.mulesoft.com) with a local filesystem. There are several use cases where this would come in very handy.
+API-Sync is a tool that synchronizes an API design (and all the related assets; files, directories, etc.) that's hosted in the [Anypoint Platform](http://anypoint.mulesoft.com) with a local filesystem (or vice versa). There are several use cases where this would come in very handy. 
 
 **Use Case #1:** Designing a [RAML-based](http://raml.org) API on a Mac/Windows/Linux desktop and migrating that design to Anypoint.
 
